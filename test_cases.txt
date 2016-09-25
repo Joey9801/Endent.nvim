@@ -1,0 +1,7 @@
+int foo;
+char  *word= "foobar";
+char  **other_word;
+size_t something_else;
+much_longer_type    baz;
+const char * const *lots_of_words_type;
+char * *other_word;
